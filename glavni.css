@@ -25,7 +25,6 @@ h2 {
   margin: 10px;
   border-radius: 10px;
   box-shadow: 2px 4px 5px rgb(0, 0, 0, 0.3);
-  transform: translateX(0);
 }
 
 .box.show {
